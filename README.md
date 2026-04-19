@@ -45,8 +45,6 @@ The dataset used is `medical_examination.csv`, which includes:
 * `medical_data_visualizer.py` → main implementation
 * `main.py` → execution script
 * `medical_examination.csv` → dataset
-* `catplot.png` → categorical plot
-* `heatmap.png` → heatmap
 
 ## Output
 
